@@ -1,5 +1,5 @@
 package LALALAAL;
 
 public class LALALALA {
-	ASDFASDF;
+	ASDFASDF;AASDFSADF
 }
